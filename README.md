@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Qianhui
 
+
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=eksinyue&show_icons=true&count_private=true)
 <!--
 **qian119-w/qian119-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
