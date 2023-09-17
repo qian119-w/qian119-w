@@ -1,10 +1,8 @@
 ### Hi there 👋 My name is Qianhui
 
+I am a computer science undergraduate at the [Australian National University](https://cecc.anu.edu.au/study/undergraduate/bachelor-advanced-computing-honours).
 
 
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=qian119-w&show_icons=true&count_private=true)
 <!--
 **qian119-w/qian119-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
